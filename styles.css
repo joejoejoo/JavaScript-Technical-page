@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+}
+
+.grandPoobah {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar {
+  position: fixed; /* Set the navbar to fixed position */
+  /* Position the navbar at the top of the page */
+  /* Full width */
+}
+
+#navlist {
+  list-style-type: none;
+  padding: 2.3rem;
+  margin-top: 3em;
+  padding-left: 0px;
+}
+
+.contentConta {
+  margin-left: 15em;
+  margin-top: 5em;
+  border: solid 2px black;
+  padding-left: 2rem;
+  margin-left: 215px;
+}
+
+#sec {
+  padding: 0.5rem;
+  border: solid 2px black;
+  background-color: gray;
+  font-size: 1.2rem;
+}
+
+.blackBox {
+  background-color: black;
+  padding: 2rem;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-bottom: 60px;
+}
